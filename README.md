@@ -25,7 +25,7 @@ I am a computer science student and at the moment I am finishing learning HTML, 
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
   <br>
-  <h5> Soon </h5>
+  <h5> Coming Soon </h5>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -46,7 +46,7 @@ I am a computer science student and at the moment I am finishing learning HTML, 
   </a>
 </span>
 
-## My Social Media
+## Check my Social Media:
 <span>
   <a href="https://www.instagram.com/elkxup">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
