@@ -18,7 +18,7 @@ I am a computer science student and at the moment I am finishing learning HTML, 
 
 <h3> Languages </h3>
 <span>
-  <a href="[https://www.instagram.com/elkxup](https://en.wikipedia.org/wiki/HTML">
+  <a href="https://en.wikipedia.org/wiki/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS">
@@ -54,7 +54,7 @@ I am a computer science student and at the moment I am finishing learning HTML, 
   <a href="https://www.twitch.tv/elkxup">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
   </a>
-  <a href="[https://www.twitch.tv/elkxup](https://www.youtube.com/@ElKxup)">
+  <a href="https://www.youtube.com/@ElKxup">
       <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
 </span>
