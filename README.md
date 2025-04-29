@@ -46,7 +46,7 @@ I am a computer science student and at the moment I am finishing learning HTML, 
   </a>
 </span>
 
-<h4> my Social Media </h4>
+## My Social Media
 <span>
   <a href="https://www.instagram.com/elkxup">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -58,3 +58,13 @@ I am a computer science student and at the moment I am finishing learning HTML, 
       <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
 </span>
+
+## Github stats:
+
+[![](https://github-readme-stats.vercel.app/api?username=Thats-Kevn&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Thats-Kevn)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Thats-Kevn&theme=material-palenight)](https://github.com/Thats-Kevn)
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
