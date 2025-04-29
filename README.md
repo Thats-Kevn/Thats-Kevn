@@ -17,9 +17,13 @@ I am a computer science student and at the moment I am finishing learning HTML, 
 ## My Skills Include
 
 <h3> Languages </h3>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<span>
+  <a href="[https://www.instagram.com/elkxup](https://en.wikipedia.org/wiki/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/CSS">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
   <br>
   <h5> Soon </h5>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -31,14 +35,26 @@ I am a computer science student and at the moment I am finishing learning HTML, 
 
 <h4> Other Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black">
+  <a href="https://www.edx.org">
+     <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white">
+  </a>
+  <a href="https://www.notion.com/">
+      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/CSS">
+      <img src="https://img.shields.io/badge/VoiceOver-%23484848.svg?style=for-the-badge&logo=VoiceOver&logoColor=white">
+  </a>
 </span>
 
 <h4> my Social Media </h4>
 <span>
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  <a href="https://www.instagram.com/elkxup">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.twitch.tv/elkxup">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
+  </a>
+  <a href="[https://www.twitch.tv/elkxup](https://www.youtube.com/@ElKxup)">
+      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
 </span>
